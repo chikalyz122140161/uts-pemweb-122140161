@@ -48,6 +48,14 @@ npm run start
 3. Di Settings → Environment Variables tambahkan `VITE_OPENWEATHER_API_KEY`
 4. Deploy
 
+## Link Deployment
+
+Aplikasi telah dideploy dan depat diakses di:
+
+https://uts-pemweb-122140161.vercel.app/
+
+Silakan cek aplikasi langsung melalui link di atas. Link deployment juga telah dicantumkan pada form pengumpulan tugas.
+
 ## Checklist Penilaian (Bagian yang dipenuhi)
 - Form: ada SettingsForm dengan 5 input berbeda + validation HTML5
 - Table: DataTable implementasi dengan minimal 3 kolom
