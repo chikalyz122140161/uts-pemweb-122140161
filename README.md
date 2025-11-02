@@ -34,6 +34,10 @@ npm run start
 
 5. Buka http://localhost:5173
 
+## Screenshot Aplikasi
+
+~[Weather Dashboard | UTS](docs/Dashboard.png "Weather Dashboard")
+
 ## Catatan Penting
 - Jangan commit `VITE_OPENWEATHER_API_KEY` ke repository publik. Gunakan environment variables.
 - Pastikan API key valid (daftar di https://openweathermap.org/)
