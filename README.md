@@ -36,7 +36,7 @@ npm run start
 
 ## Screenshot Aplikasi
 
-~[Weather Dashboard | UTS](docs/Dashboard.png "Weather Dashboard")
+![Weather Dashboard | UTS](docs/Dashboard.png "Weather Dashboard")
 
 ## Catatan Penting
 - Jangan commit `VITE_OPENWEATHER_API_KEY` ke repository publik. Gunakan environment variables.
